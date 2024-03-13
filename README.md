@@ -1,12 +1,41 @@
-# ESP32-Networking
-Ray en Jorben ESP32 netwerk project.
+# Projectnaam: ESP32's Connectent met gebruik van ESP-NOW
 
-### Omschrijving
-We willen een een netwerk systeem maken met ESP32'. Ieder ESP32 heeft 2 LEDS waarvan 1 de eigen ingestelde kleur is en 1 de openbare LED is die alle borden met z'n allen besturen ook heeft het bord een buzzer om buzzsignalen te sturen en te ontvangen. Elk bord heeft ook 3 potmeters (draaiweerstanden) deze worden gebruikt om de R, G, B waarden van het eigen lampje in te stellen. Zodra je een leuke combinatie van kleuren hebt gevonden kan je op de knop drukken om de kleur naar de host te sturen. Nu hebben alle borden op de openbare lamp deze kleur. Om iets anders door te sturen naar de host hebben we een knop met 2 LEDS ernaast om een mode aan te geven. De eerste LED geeft aan dat de geselecteerde mode "Kleuren sturen" is en de tweede geefte aan "Buzz signaal sturen". Beide modes zijn aan te passen met de potmeters en te versturen met de knop daarnaast.
+## Inleiding
 
-### Benodigdheden
-- 3 ESP32's
-- 12 LEDs
-- 3 Potmeters
-- Draadjes...
-- 3 Drukknopjes
+Dit project, uitgevoerd door Jorben en Ray, richt zich op het gebruik van ESP32's in combinatie met ESP-NOW. ESP-NOW is een protocol ontwikkeld door Espressif dat zorgt voor een snelle en efficiënte communicatie tussen ESP32's.
+
+## Werkplan
+
+### Eindproduct
+
+Het eindproduct van dit project is een netwerk van ESP32's die met elkaar communiceren via ESP-NOW.
+
+### Middelen
+
+We hebben de volgende middelen gebruikt:
+
+- ESP32's
+- ESP-NOW
+- Andere benodigde hardware en software
+
+### Verwachte problemen
+
+We verwachten problemen tegen te komen met de configuratie van ESP-NOW en de communicatie tussen de ESP32's.
+
+### Planning
+
+We hebben ongeveer X weken nodig om dit project te voltooien. We verwachten dat de configuratie van ESP-NOW en de communicatie tussen de ESP32's de meeste tijd zal kosten.
+
+## Resultaten
+
+Hier is een korte demonstratie van ons project. (Voeg hier een beschrijving of link naar een video of afbeeldingen toe)
+
+## Discussie
+
+### Wat hebben we geleerd?
+
+Tijdens dit project hebben we veel geleerd over ESP32's en ESP-NOW. We begonnen met beperkte kennis, maar door problemen te overwinnen en nieuwe oplossingen te vinden, hebben we onze kennis en vaardigheden aanzienlijk verbeterd.
+
+### Wat zouden we anders doen?
+
+Voor ons volgende project zouden we meer tijd besteden aan de planning en het oplossen van problemen. We hebben geleerd dat een grondige planning en probleemoplossing essentieel zijn voor het succes van een project.
